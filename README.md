@@ -27,4 +27,3 @@ This is the [binary search tree](https://www.theodinproject.com/lessons/ruby-bin
 | #rebalance | Rebalances an unbalanced tree |
 
 ## Thoughts
-
