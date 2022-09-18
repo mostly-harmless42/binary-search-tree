@@ -1,5 +1,5 @@
 
-# Linked Lists
+# Binary Search Trees
 Created as part of [The Odin Project](https://www.theodinproject.com) curriculum.
 
 View on [Github](https://github.com/mostly-harmless42/binary-search-tree)
