@@ -24,5 +24,6 @@ This is the [binary search tree](https://www.theodinproject.com/lessons/ruby-bin
 | #depth(node) | Accepts a node and returns its depth in the BST |
 | #balanced? | Returns true if the tree is balanced and false otherwise |
 | #rebalance | Rebalances an unbalanced tree |
+| #pretty_print | Provided method to print tree in console |
 
 ## Thoughts
