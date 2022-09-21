@@ -16,8 +16,7 @@ This is the [binary search tree](https://www.theodinproject.com/lessons/ruby-bin
 | #insert(value) | Inserts a value into the constructed BST |
 | #delete(value) | Deletes a value from the constructed BST |
 | #find(value) | Accepts a value and returns the node with the given value if found |
-| #level_order_recursive | Accepts block and yields each node to block in breadth-first level order using recursion |
-| #level_order_iterative | Accepts block and yields each node to block in breadth-first level order using iteration |
+| #level_order | Accepts block and yields each node to block in breadth-first level order |
 | #inorder | Accepts block and yields each node with inorder traversal
 | #preorder |  Accepts block and yields each node with preorder traversal |
 | #postorder | Accepts block and yields each node with postorder traversal |
